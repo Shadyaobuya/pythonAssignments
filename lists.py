@@ -1,4 +1,4 @@
-import sys
+
 countries=["Kenya","Uganda","Rwanda", "South Sudan"]
 print(countries[1:3])
 
